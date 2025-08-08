@@ -8,8 +8,8 @@ const { GoogleSpreadsheet } = require('google-spreadsheet');
 
 // ตั้งค่า LINE
 const config = {
-    channelAccessToken: 'pK1ISEv3EpisSPdg2+LL5GNOWT9jpB9w4Q0CDMfAtp1KCZDM8yGeBvxTf7M6TwT/kTWEJ/3ZyZ5kEqvz8ZezZ2PSAP8cjipmu+n0yH1lxtRWscYYxah2S78+mPvy8yxCgo3B+QwrBLDzXztjvOQDWgdB04t89/1O/w1cDnyilFU=', // <<< ใส่ Channel Access Token ของคุณ
-    channelSecret: 'd108a59f7374d4a13eea586456ca9696'           // <<< ใส่ Channel Secret ของคุณ
+    channelAccessToken: 'cLywMX7+8NNJ/sYuaaSCBuIvz1EgowIiiXzZG/A+IawSjgN+f7EsP56DfdoW300f9wWJa9rD6MmiVx4KLAO35bg/LN4eZSe52ShCdDLB3Fzr8wCoEcEFnAnlAReShcs+KXDCKTEO8Cjsq09uwn7z0gdB04t89/1O/w1cDnyilFU=', // <<< ใส่ Channel Access Token ของคุณ
+    channelSecret: 'd752fb2829bbe19841f64afa444e253d'           // <<< ใส่ Channel Secret ของคุณ
 };
 
 // ตั้งค่า Google Sheet
